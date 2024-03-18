@@ -1,0 +1,40 @@
+body{
+  margin:0px;
+  width:100vw;
+  height:100vh;
+  background-color:hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+}
+#center{
+  display:grid;
+  place-items: center;
+  height:100%;
+  width:100%;
+}
+#box{
+  padding:15px;
+  padding-bottom: 40px;
+  max-width: min-content;
+  background-color: hsl(0, 0%, 100%);
+  border-radius:17px;
+  text-align: center;
+}
+#smallText{
+  font-size: 15px;
+  color:hsl(220, 15%, 55%);
+  font-weight:400;
+}
+#bigText{
+  font-size:1.4em;
+  color:hsl(218, 44%, 22%);
+  font-weight:700;
+}
+.text{
+  margin-left:20px;
+  margin-right:20px;
+}
+#qrCode{
+  width: 300px;
+  height: auto;
+  border-radius:12px;
+}
