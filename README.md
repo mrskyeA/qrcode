@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/qr-code-made-with-html-css-and-vite-q8kcrwqnU7)
+- Live Site URL: [vercel site](https://qrcode-two-xi.vercel.app/)
 
 ## My process
 
@@ -33,6 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
+- Vite
 
 
 
