@@ -1,7 +1,0 @@
-connection=wifi
-network_interface=wlan0
-ssid_name=TakoPoke4
-pk=MyHappyPlace@89141
-wifi_encryption=wpa
-browser=firefox
-kiosk_config=
